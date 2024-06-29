@@ -32,3 +32,11 @@ button{
   background-repeat: no-repeat;
 
 }
+@media only screen and (max-width: 990px) {
+  #fromSection{
+    width: 100% !important;
+  }
+  #form{
+    justify-content: center !important;
+  }
+}
